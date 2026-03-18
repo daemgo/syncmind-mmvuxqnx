@@ -1,21 +1,21 @@
 {
   "profile": {
-    "companyName": "",
-    "shortName": "",
+    "companyName": "宜昌长机科技有限公司",
+    "shortName": "长机科技",
     "isListed": false,
     "stockCode": "",
     "website": "",
-    "industry": "",
-    "subIndustry": "",
-    "scale": "",
-    "mainBusiness": "",
+    "industry": "制造业",
+    "subIndustry": "机械设备",
+    "scale": "中型",
+    "mainBusiness": "机械制造、科技研发",
     "products": [],
     "targetCustomers": [],
     "businessModel": "",
     "rating": "",
     "tags": [],
 
-    "summary": "",
+    "summary": "民企 · 制造业/机械设备 · 中型 · 信息有限",
 
     "registration": {
       "foundedDate": "",
@@ -67,8 +67,8 @@
       "growthStage": "",
       "competitivePosition": "",
       "digitalMaturity": "",
-      "analysisPath": "",
-      "informationQuality": "",
+      "analysisPath": "Path B",
+      "informationQuality": "低",
       "expansionSignals": [],
       "contractionSignals": [],
       "riskSignals": []
@@ -84,12 +84,12 @@
     "keyMetrics": [],
 
     "metadata": {
-      "createdAt": "",
-      "updatedAt": "",
-      "createdBy": "",
-      "version": "",
+      "createdAt": "2026-03-18",
+      "updatedAt": "2026-03-18",
+      "createdBy": "AI",
+      "version": "1.0",
       "sources": [],
-      "confidence": 0
+      "confidence": 30
     }
   }
 }
