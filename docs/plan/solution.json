@@ -6,8 +6,16 @@
       "name": "普通方案",
       "icon": "FileText",
       "description": "标准解决方案模板",
-      "currentVersion": "",
-      "versions": []
+      "currentVersion": "v1",
+      "versions": [
+        {
+          "version": "v1",
+          "createdAt": "2026-03-18T10:30:00Z",
+          "requirementsVersion": "v1",
+          "summary": "装备制造业智能车间制造执行系统(MES)解决方案",
+          "content": ""
+        }
+      ]
     },
     {
       "id": "bidding",
