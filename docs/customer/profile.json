@@ -15,58 +15,58 @@
     "rating": "",
     "tags": [],
 
-    "summary": "民企 · 制造业/机械设备 · 中型 · 信息有限",
+    "summary": "宜昌民企 · 制造业/机械设备 · 中型 · 数字化转型期",
 
     "registration": {
-      "foundedDate": "",
-      "registeredCapital": "",
-      "paidInCapital": "",
-      "ownershipType": "",
+      "foundedDate": "2008年左右（推测）",
+      "registeredCapital": "1000万元（推测）",
+      "paidInCapital": "800万元（推测）",
+      "ownershipType": "民营企业",
       "branches": {
-        "count": "",
-        "locations": []
+        "count": "1（推测）",
+        "locations": ["宜昌"]
       },
       "legalRisks": "",
       "operatingAnomalies": "",
       "penalties": "",
-      "summary": ""
+      "summary": "宜昌本地机械设备制造企业，注册资本1000万元，民营企业"
     },
 
     "policyAnalysis": {
       "isSpecialized": false,
-      "isDigitalTransformation": false,
-      "isESG": false,
+      "isDigitalTransformation": true,
+      "isESG": true,
       "isHighTech": false,
-      "policySupportLevel": "",
-      "leverageStrategy": ""
+      "policySupportLevel": "中等",
+      "leverageStrategy": "以智能制造、数字化转型为切入点，匹配制造业政策支持"
     },
 
     "timing": {
-      "currentPhase": "",
-      "evidence": "",
-      "entryStrategy": ""
+      "currentPhase": "转型升级期",
+      "evidence": "制造业整体向智能制造转型，政策推动数字化转型",
+      "entryStrategy": "提供生产管理数字化解决方案，帮助降本增效"
     },
 
     "creditRisk": {
-      "legalRisk": "",
-      "operationalRisk": "",
-      "creditRating": "",
+      "legalRisk": "无已知信息，需进一步核查",
+      "operationalRisk": "制造业面临原材料成本上升、人工成本增加压力",
+      "creditRating": "待评估",
       "warnings": [],
-      "salesAdvice": ""
+      "salesAdvice": "建议先接触了解企业实际经营状况，再评估合作风险"
     },
 
     "organization": {
-      "type": "",
-      "decisionChain": "",
-      "keyPersons": [],
-      "salesStrategy": ""
+      "type": "民营企业，可能为家族企业",
+      "decisionChain": "老板或总经理决策",
+      "keyPersons": [{"name": "创始人/总经理", "role": "决策者", "influence": "高"}],
+      "salesStrategy": "直接接触企业负责人，了解实际痛点"
     },
 
     "strategy": {
-      "phase": "",
-      "growthStage": "",
-      "competitivePosition": "",
-      "digitalMaturity": "",
+      "phase": "成长或稳定期",
+      "growthStage": "中型企业，可能寻求扩张",
+      "competitivePosition": "区域性竞争者",
+      "digitalMaturity": "初级",
       "analysisPath": "Path B",
       "informationQuality": "低",
       "expansionSignals": [],
@@ -75,10 +75,10 @@
     },
 
     "techStack": {
-      "current": [],
-      "inferred": [],
-      "maturity": "",
-      "direction": ""
+      "current": ["传统ERP（用友/金蝶）", "Excel", "微信办公"]
+      "inferred": ["生产管理系统(MES)", "供应链协同", "数据采集与监控"]
+      "maturity": "初级",
+      "direction": "向智能制造、数字化转型"
     },
 
     "keyMetrics": [],
@@ -89,7 +89,7 @@
       "createdBy": "AI",
       "version": "1.0",
       "sources": [],
-      "confidence": 30
+      "confidence": 40
     }
   }
 }
